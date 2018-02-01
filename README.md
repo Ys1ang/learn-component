@@ -1,3 +1,5 @@
+The learn-* series projects are designed for Angular beginners in Chinese, please don't use these codes in your prodution.
+
 # LearnComponent
 这是一个教学项目，全面示范了Angualr组件的所有技术细节。
 
@@ -14,7 +16,7 @@
 - viewchild分支，示范ViewChild和ViewChildren的玩法
 
 ## 备注
-learn-***是一个系列教学项目用的实例源代码，全部链接请点这里：
+learn-*是一个系列教学项目用的实例源代码，全部链接请点这里：
 
 - https://gitee.com/mumu-osc/learn-component
 - https://gitee.com/mumu-osc/learn-directive
